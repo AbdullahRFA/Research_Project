@@ -108,4 +108,11 @@ def show_results(image_path, confidence_threshold):
 
 
 # Example usage:
-show_results('./Object_detection.png', confidence_threshold=0.2)
+show_results('images/beribadh.jpg', confidence_threshold=0.2)
+show_results('images/night_pic.jpg', confidence_threshold=0.2)
+show_results('images/crossing _road.jpg', confidence_threshold=0.2)
+show_results('images/dhaka_busy_road.png', confidence_threshold=0.2)
+show_results('images/Object_detection.png', confidence_threshold=0.2)
+show_results('images/trafic_cross.jpg', confidence_threshold=0.2)
+show_results('images/kurbani.jpg', confidence_threshold=0.2)
+show_results('images/dhaka.jpg', confidence_threshold=0.2)
