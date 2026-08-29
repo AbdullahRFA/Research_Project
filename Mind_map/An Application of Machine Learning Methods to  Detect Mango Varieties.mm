@@ -6,7 +6,7 @@
 <node TEXT="An Application of Machine Learning Methods to  Detect Mango Varieties" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1755792769933" STYLE="oval">
 <font SIZE="14"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" show_tags="UNDER_NODES" show_icon_for_attributes="true" showTagCategories="false"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" auto_compact_layout="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -224,7 +224,7 @@
 <node TEXT="The paper’s comparison table aggregates works with different tasks/datasets (quality grading vs. variety ID; on-tree vs. studio), so the “our method is higher” conclusion isn’t apples-to-apples. You can clean this up with standardized cross-dataset tests" ID="ID_1187591304" CREATED="1755784830533" MODIFIED="1755784832775"/>
 </node>
 </node>
-<node TEXT="Only 10 epochs" FOLDED="true" ID="ID_199606542" CREATED="1755784710687" MODIFIED="1755792965818" STYLE="bubble">
+<node TEXT="Only 10 epochs" ID="ID_199606542" CREATED="1755784710687" MODIFIED="1755792965818" STYLE="bubble">
 <node TEXT="Fixed short training may handicap some models (e.g., VGG/ResNet need different schedules/regularization); fairness across architectures is uncertain." ID="ID_1696068204" CREATED="1755784802634" MODIFIED="1755784822088"/>
 </node>
 </node>

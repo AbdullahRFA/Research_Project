@@ -5,8 +5,8 @@
 </bookmarks>
 <node TEXT="CNN-BASED SOLUTION FOR MANGO CLASSIFICATION IN&#xa;AGRICULTURAL ENVIRONMENTS" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1755793942082" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" show_tags="UNDER_NODES" show_icon_for_attributes="true" showTagCategories="false"/>
+<hook NAME="MapStyle" zoom="0.5">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" auto_compact_layout="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
